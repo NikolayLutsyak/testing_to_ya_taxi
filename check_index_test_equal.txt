@@ -1,0 +1,2 @@
+The percentages of '/index' and '/test' mobile queries is equal with a significance level of 5%.
+95% confidence interval for difference: (-0.010, 0.008)
